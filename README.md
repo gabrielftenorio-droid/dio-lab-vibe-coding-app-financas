@@ -13,7 +13,7 @@ O **Trilha do Bom Bolso** é um aplicativo de organização financeira pessoal p
 O produto foi pensado especialmente para **jovens e iniciantes** em gestão financeira, adotando um tom leve, descontraído e acessível, guiado pelos princípios de **Design Universal** e **Acessibilidade Digital**.
 
 ### 🌟 Principais Funcionalidades:
-- **Agente Virtual "Tostão":** Uma mascote amigável que orienta o usuário passo a passo com linguagem humana e didática.
+- **Agente Virtual "Tostão":** Um mascote amigável que orienta o usuário passo a passo com linguagem humana e didática.
 - **Registro por Linguagem Natural:** O usuário registra despesas e receitas apenas digitando no chat (ex.: *"Gastei 11,94 com Uber"* ou *"Gastei 491,47 com o financiamento da Caixa"*).
 - **Classificação e Feedback Instantâneo:** O assistente identifica automaticamente a categoria (Transporte, Moradia, etc.) e confirma o registro na hora.
 - **Dicas do Tostão & Insights:** Análise preventiva de gastos (ex.: alertar qual categoria está pesando mais no mês).
