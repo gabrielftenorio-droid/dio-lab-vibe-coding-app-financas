@@ -8,30 +8,48 @@
 
 ## 📌 1. Resumo do Aplicativo
 
-O **Trilha do Bom Bolso** é um aplicativo de organização financeira pessoal projetado com uma abordagem *chat-first*. O objetivo é eliminar planilhas complexas e formulários cansativos, permitindo que qualquer pessoa controle suas finanças por meio de conversas naturais com um Agente Financeiro Virtual.
+O **Trilha do Bom Bolso** é um aplicativo de organização financeira pessoal projetado com uma abordagem *chat-first*. O objetivo é eliminar planilhas complexas e formulários cansativos, permitindo que qualquer pessoa controle suas finanças por meio de conversas naturais com o **Tostão**, o assistente virtual amigável do app.
 
 O produto foi pensado especialmente para **jovens e iniciantes** em gestão financeira, adotando um tom leve, descontraído e acessível, guiado pelos princípios de **Design Universal** e **Acessibilidade Digital**.
 
 ### 🌟 Principais Funcionalidades:
-- **Registro por Linguagem Natural:** O usuário registra despesas e receitas apenas digitando no chat (ex.: *"Gastei 35 reais no almoço"* ou *"Recebi 400 de freela"*).
-- **Classificação Automática:** Reconhecimento instantâneo de valor, categoria e data da transação.
-- **Metas Financeiras Acompanhadas:** Definição e visualização de progresso para objetivos reais (reserva de emergência, viagens, compras).
-- **Dashboard Limpo e Visual:** Visão consolidada de saldo, despesas e receitas sem termos técnicos difíceis ("economês").
-- **Agente Financeiro Parceiro:** Dicas preventivas de economia e alertas inteligentes de comportamento financeiro.
+- **Agente Virtual "Tostão":** Uma mascote amigável que orienta o usuário passo a passo com linguagem humana e didática.
+- **Registro por Linguagem Natural:** O usuário registra despesas e receitas apenas digitando no chat (ex.: *"Gastei 11,94 com Uber"* ou *"Gastei 491,47 com o financiamento da Caixa"*).
+- **Classificação e Feedback Instantâneo:** O assistente identifica automaticamente a categoria (Transporte, Moradia, etc.) e confirma o registro na hora.
+- **Dicas do Tostão & Insights:** Análise preventiva de gastos (ex.: alertar qual categoria está pesando mais no mês).
+- **Dashboard Visual e Descomplicado:** Cartões claros de *Entrou*, *Saiu* e *Sobrou*, acompanhados de gráficos de distribuição simples de entender.
+- **Metas Financeiras Acompanhadas:** Definição e visualização de progresso para objetivos reais (reserva de emergência, viagens, quitação de dívidas).
 
 ---
 
-## 📸 2. Demonstração e Interações com a IA
+## 📸 2. Demonstração e Telas do Aplicativo
 
-Registros visuais da ideação, do fluxo conversacional e das telas geradas no Lovable:
+Confira abaixo as telas reais do MVP gerado no [Lovable](https://lovable.dev) a partir do PRD:
 
-> *Dica: Você pode incluir capturas de tela das suas conversas e do app na pasta `assets/`.*
+### 🚀 Onboarding Guiado e Acessível
+O aplicativo recebe o usuário de forma calorosa, perguntando como prefere ser chamado e qual é seu objetivo financeiro prioritário:
 
-| Etapa | Visualização |
-| :--- | :--- |
-| **1. Briefing & Criação do PRD** | ![Interação com IA - Prompt](assets/print-prompt.png) |
-| **2. Chat Conversacional** | ![Chat Financeiro](assets/print-chat.png) |
-| **3. Dashboard e Metas** | ![Dashboard do App](assets/print-dashboard.png) |
+| 1. Apresentação do Tostão | 2. Escolha de Objetivo Inicial |
+| :---: | :---: |
+| ![Passo 1 Onboarding](assets/01-onboarding-nome.jpg) | ![Passo 2 Onboarding](assets/02-onboarding-objetivo.jpg) |
+
+---
+
+### 💬 Experiência Conversacional (Chat-First)
+Sem formulários manuais: o usuário pode usar sugestões rápidas ou digitar do seu jeito, e o assistente classifica a transação automaticamente:
+
+| Tela Inicial do Chat | Interação Real e Classificação Automática |
+| :---: | :---: |
+| ![Chat Inicial](assets/03-chat-inicial.png) | ![Chat com Registros](assets/04-chat-interacao.png) |
+
+---
+
+### 📊 Painel Geral (Dashboard) e Acompanhamento de Metas
+Visão consolidada das finanças com gráficos intuitivos, dicas personalizadas e controle de metas:
+
+| Painel com Gráficos e "Dicas do Tostão" | Acompanhamento Visual de Metas |
+| :---: | :---: |
+| ![Painel e Métricas](assets/05-dashboard-painel.png) | ![Gestão de Metas](assets/06-metas.png) |
 
 ---
 
